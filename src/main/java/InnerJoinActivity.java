@@ -63,7 +63,7 @@ import java.util.Set;
 public class InnerJoinActivity {
     /**
      * Consider the following tables:
-     *
+     * 
      *              class                                  student
      * | id |  teacher_name |class_title|     | id |      student_name |class_title|
      * ----------------------------------     --------------------------------------
